@@ -81,10 +81,6 @@ See [LICENSE](LICENSE) for more information.
 
 > **Made with ❤️ for open-source AI education**
 
-
-
-## License
-This project is licensed under the **MIT** License.
-
 ---
+
 🔗 GitHub Repo: https://github.com/Pranesh-2005/Inside-Yolo
